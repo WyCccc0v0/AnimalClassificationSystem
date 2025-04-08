@@ -16,7 +16,7 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 setuptools==75.8.0
 six==1.17.0
-sympy==1.13.1
+sympy==1.13.3
 torch==2.6.0+cu124
 torchaudio==2.6.0+cu124
 torchsummary==1.5.1
